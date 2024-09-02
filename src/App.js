@@ -4,7 +4,6 @@ import Profile from "./Profile";
 import Calcularcobustivel from "./Calcular_cobustivel";
 
 export default function App() {
-  // const category = "POsts blas";
   
   return (
     <>
