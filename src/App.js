@@ -5,7 +5,7 @@ import Calcularcobustivel from "./Calcular_cobustivel";
 
 export default function App() {
   // const category = "POsts blas";
-  const category = "Sim";
+  
   return (
     <>
       <Calcularcobustivel />
